@@ -10,7 +10,7 @@ with open("all_questions.json", encoding="utf-8") as f:
 def home():
     return "題庫 API 運作中"
 
-@app.route("/question", methods=["POST"])
+@app.route("/question/getquestion", methods=["POST"])
 def question():
     payload = request.get_json()
     cat = payload.get("category")
