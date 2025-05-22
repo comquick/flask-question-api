@@ -1,0 +1,3556 @@
+[
+  {
+    "id": "j-111-3",
+    "year": 111,
+    "exam_type": "普考",
+    "category": "基本",
+    "question": "探空圖中有乾絕熱線及溼絕熱線，若將未飽和的溼空氣塊（air parcel）抬升到大氣層頂，再下降到原高度，請問：（每小題10分，共20分）空氣塊於上升過程及下降過程各是沿那些線在移動？當該空氣回到原高度時，溫度是否改變？請說明原因。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-110-4",
+    "year": 110,
+    "exam_type": "普考",
+    "category": "基本",
+    "question": "測風氣球釋放沒多久，便會呈現接近等速運動上升。請說明此上升過程中，包含幾種作用力的平衡？但實際上，上升運動並不完全等速，原因為何？",
+    "points": 10,
+    "sub_questions": []
+  },
+  {
+    "id": "j-109-3",
+    "year": 109,
+    "exam_type": "普考",
+    "category": "基本",
+    "question": "大氣常有沉降逆溫及鋒面逆溫，說明發生這兩種逆溫之大氣環境，及在探空圖上此兩種逆溫之溫度線及露點線的特性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-109-4",
+    "year": 109,
+    "exam_type": "高考",
+    "category": "基本",
+    "question": "探空圖中經常可以看到混合層（mixing layer），請說明是什麼因素導致混合？均勻混合（well mixed）之後有那些物理量會變得相當一致？（10分）探空圖上如何判別均勻混合層（well mixed layer）？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-104-4",
+    "year": 104,
+    "exam_type": "普考",
+    "category": "基本",
+    "question": "說明一般民眾在交通部中央氣象局網站常見的可見光雲圖、紅外線雲圖及色調強化雲圖的觀測原理，及其在天氣分析上的應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-102-4",
+    "year": 102,
+    "exam_type": "普考",
+    "category": "基本",
+    "question": "航空氣象作業常需要預估機場是否會受到雷暴影響，而知道大氣穩定度是必要的。試說明一般氣象單位如何監測並估算大氣穩定度。（10分）並說明大氣穩定度和雷暴發生的關聯。",
+    "points": 10,
+    "sub_questions": []
+  },
+  {
+    "id": "s-98-2",
+    "year": 98,
+    "exam_type": "高考",
+    "category": "基本",
+    "question": "說明位溫、相當位溫、濕球位溫、混合比以及露點溫度的意義，討論這些參數在空氣塊上升的過程中，發生凝結前和發生凝結後會有什麼變化（變大、變小或不變）？請說明之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-1.1",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "基本",
+    "question": "天氣現象分成那些種類？列舉說明。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-83-4",
+    "year": 83,
+    "exam_type": "高考",
+    "category": "基本",
+    "question": "詳述氣壓及一個大氣壓（atm）之定義。在SI單位系中，氣壓之單位如何表示？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-3.1",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "基本",
+    "question": "何謂都普勒效應？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-3",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "氣壓量測設備安置於中央氣象局所屬氣象站、移動式氣象塔及無線電探空儀上時，分別放置的位置為何？此考量主要是為了避免何種誤差來源？",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-3",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "說明空盒氣壓計之構造以及測壓原理，觀測時需施行什麼訂正？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-101-2",
+    "year": 101,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "說明水銀氣壓計之器差訂正、溫度訂正與重力訂正之目的與內容。說明某地之氣壓日變化主要會受到那些因素之影響。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-3",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "試依據福丁氣壓計（Fortin Barometer）的結構，說明所測得的氣壓值，其誤差來源為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-100-4",
+    "year": 100,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "依據世界氣象組織（WMO）規定之標準氣壓是指在何種標準條件下的氣壓值？水銀氣壓計被認為準確度極高之測量方法，主要是因水銀具有那些重要的特性？氣壓室的設置應注意那些事項？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-99-5",
+    "year": 99,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "寇烏式氣壓計的刻度極為特殊，稱為訂正刻度，試問其主要作用為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-98-1",
+    "year": 98,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "說明空盒氣壓計的測壓原理、訂正程序以及利用此儀器測量氣壓的優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-97-1",
+    "year": 97,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "為何氣象站的氣壓量測要在氣壓室進行？水銀氣壓計、空盒氣壓計以及電容式氣壓儀的可能觀測誤差為何？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-97-2",
+    "year": 97,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "詳述氣壓量測的三種誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-3",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "說明如何利用福丁式水銀氣壓計量測得到觀測氣壓、測站氣壓以及海平面氣壓。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-92-1",
+    "year": 92,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "福丁式水銀氣壓計觀測所得的水銀柱高度為觀測氣壓，要再經過那些訂正步驟才是測站氣壓？試詳述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-90-1",
+    "year": 90,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "比較福丁式水銀氣壓計及寇烏式水銀氣壓計構造之差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-89-1",
+    "year": 89,
+    "exam_type": "普考",
+    "category": "氣壓",
+    "question": "說明空盒氣壓計之測壓原理。空盒數量多寡對量測有何影響？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-87-1",
+    "year": 87,
+    "exam_type": "高考",
+    "category": "氣壓",
+    "question": "說明造成空盒氣壓計誤差的原因有那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-1.2",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "氣壓",
+    "question": "在實務上，測站氣壓主要以何類氣壓計量測？其讀數需作那些訂正？為什麼？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-2",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "氣壓",
+    "question": "試說明在氣壓觀測中須經那些校正程序後，才能獲得天氣圖中所需的氣壓值並簡述福丁式水銀氣壓計的觀測步驟。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-82-3",
+    "year": 82,
+    "exam_type": "薦任",
+    "category": "氣壓",
+    "question": "綜觀氣象站用自記空盒氣壓儀與船舶用自記空盒氣壓儀在結構上有何不同？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-1",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "氣壓",
+    "question": "回答下列有關氣壓觀測的兩個問題：(一)說明水銀氣壓計的原理。(二)由水銀氣壓計讀數求測站氣壓時，須經過那些訂正？說明作這些訂正的物理原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-2",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "氣壓",
+    "question": "福丁氣壓計的觀測步驟中，可以利用三種方法來調整其水銀面，請敘述這三種方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-92-1",
+    "year": 92,
+    "exam_type": "簡任",
+    "category": "氣壓",
+    "question": "試比較福丁式、寇烏式及空盒氣壓計之量測原理及優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-112-1",
+    "year": 112,
+    "exam_type": "普考",
+    "category": "溫度",
+    "question": "請說明氣象地面氣溫的量測過程為何？日平均值、當日最高和最低氣溫如何觀測和處理並獲得？除了溫室氣體效應之外，還有那些因素可能造成地面氣溫升高？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-107-4",
+    "year": 107,
+    "exam_type": "高考",
+    "category": "溫度",
+    "question": "土壤溫度和海水溫度兩者各如何量測而得？這兩種溫度量測由表層往深層的剖面特徵有何異同？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-100-3",
+    "year": 100,
+    "exam_type": "高考",
+    "category": "溫度",
+    "question": "試說明液體玻璃管溫度計（Liquid in-glass Thermometer）、雙金屬片溫度儀（Bimetallic Thermometer）及電阻式溫度儀（Resistance Thermometer）之應用的觀測原理為何？若欲增加上述溫度儀的靈敏度，則在設計或材料的選擇上該如何調整？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-101-4",
+    "year": 101,
+    "exam_type": "普考",
+    "category": "溫度",
+    "question": "說明康培司拖克（Campbell-Stokes）日照計之構造、觀測項目以及安裝完畢後應進行之校正項目。說明液柱溫度計與金屬脹縮式溫度儀之誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-99-2",
+    "year": 99,
+    "exam_type": "普考",
+    "category": "溫度",
+    "question": "若有兩組結構組成相同的雙金屬溫度計，唯一不同為雙金屬的厚度不同，已知其中一組的兩片金屬片厚度均為另一組的兩倍，試問此兩組雙金屬溫度計的靈敏度比值為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-99-2",
+    "year": 99,
+    "exam_type": "高考",
+    "category": "溫度",
+    "question": "若有二支相同液體的玻璃管溫度計，甲溫度計的球部體積為 V，管面積為 A，乙溫度計的球部體積為 2V，管面積為 0.5A，試問兩者的靈敏度比值為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-98-4",
+    "year": 98,
+    "exam_type": "高考",
+    "category": "溫度",
+    "question": "說明水銀溫度計與酒精溫度計的優缺點。最高溫度計與最低溫度計的構造和測量原理有什麼不同？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-92-5",
+    "year": 92,
+    "exam_type": "普考",
+    "category": "溫度",
+    "question": "說明地面氣溫觀測的誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-91-1",
+    "year": 91,
+    "exam_type": "普考",
+    "category": "溫度",
+    "question": "說明最高溫度計與最低溫度計之測定原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-97-3",
+    "year": 97,
+    "exam_type": "身心障礙",
+    "category": "溫度",
+    "question": "試說明水銀溫度計相對於酒精溫度計的優缺點為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-2",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "白金電阻溫度計是常用之電阻式溫度儀，說明其測溫原理以及使用時須注意事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-5.2",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "電阻溫度儀可分為「正電阻式」及「負電阻式」，說明這兩種溫度儀之原理及所使用之材質。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-3.5",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "氣象觀測中之溫度項目，應包含那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-4",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "液體玻璃溫度計有水銀及酒精兩種，但實用上水銀溫度計較常被採用，試說明其原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-98-3",
+    "year": 98,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "試從選用水銀溫度計或酒精溫度計作為溫度觀測工具的需求上，說明水銀溫度計與酒精溫度計的特性有何差異？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-84-2",
+    "year": 84,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "說明毛髮溫度儀之倍率機構與倍率關係。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-2",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "列舉三類溫度量測的原理，並說明之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-3",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "請說明最高溫度計和最低溫度計的測量原理、復度時間和方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-1.4",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "溫度",
+    "question": "地面氣象觀測之氣溫量測應距地面多高為原則？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-94-2",
+    "year": 94,
+    "exam_type": "簡任",
+    "category": "溫度",
+    "question": "試說明電子式溫度儀、液體玻璃管溫度計及雙金屬溫度儀之觀測原理與誤差來源。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-113-5",
+    "year": 113,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "何謂露點溫度？並解釋如何由實際溫度與露點溫度來求得相對濕度。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-113-5",
+    "year": 113,
+    "exam_type": "高考",
+    "category": "濕度",
+    "question": "何謂露點溫度與濕球溫度？何者數值比較高？並說明近地表露點溫度從清晨到夜晚典型的變化趨勢。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-112-2",
+    "year": 112,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "常用的大氣濕度中只有露點及相對濕度可以直接測量。（每小題10分，共20分）(1) 說明露點及相對濕度有何差異？(2) 用何種方式或儀器可直接測量露點？並說明其原理。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-109-2",
+    "year": 109,
+    "exam_type": "高考",
+    "category": "濕度",
+    "question": "大氣中濕度的表示方式有數種，其中有相對濕度（relative humidity）及混合比（mixing ratio），請說明這兩種方式的意義及特性（如有用到符號或變數，請說明）。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-106-4",
+    "year": 106,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "試解釋乾濕球溫度計推算空氣濕度的原理。並說明為何實際觀測儀中，以阿斯曼通風乾濕計（Assmann Psychrometer）為測量溫度與濕度之標準儀器？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-1",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "說明露點溫度以及濕球溫度的意義，比較露點溫度、濕球溫度以及大氣溫度的大小，並說明作此判斷的原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-99-3",
+    "year": 99,
+    "exam_type": "高考",
+    "category": "濕度",
+    "question": "試說明紅外線濕度計的基本原理為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-98-2",
+    "year": 98,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "說明乾濕球溫度計的測濕原理，若已知乾濕球溫度和當地氣壓值，說明如何決定出相對應的相對濕度、露點溫度以及混合比？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-92-3",
+    "year": 92,
+    "exam_type": "高考",
+    "category": "濕度",
+    "question": "說明乾濕球溫度計（Psychrometer）原理和誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-90-1",
+    "year": 90,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "大氣中濕度的表示方法有那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-88-1",
+    "year": 88,
+    "exam_type": "高考",
+    "category": "濕度",
+    "question": "說明利用乾濕球溫度計測定濕度之原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-84-2",
+    "year": 84,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "試述通風乾濕球溫度計之構造及其觀測法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-83-2",
+    "year": 83,
+    "exam_type": "普考",
+    "category": "濕度",
+    "question": "毛髮濕度儀之毛髮使用前應作如何處理，並說明其對濕度量測上有何影響。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-100-4",
+    "year": 100,
+    "exam_type": "薦任",
+    "category": "濕度",
+    "question": "說明相對濕度、絕對濕度、比濕、混合比等濕度表示方法的意義，並討論一個空氣塊絕熱上升過程，飽和前與飽和後，這些空氣塊的濕度值隨高度如何變化。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-5.1",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "濕度",
+    "question": "說明濕球溫度及露點之意義。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-2",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "濕度",
+    "question": "如何量測濕度？列舉至少二種方法並比較說明其原理及誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-3",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "濕度",
+    "question": "說明阿斯曼乾濕計（Assmann psychrometer）的構造、原理和觀測方法，以及其主要的誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-110-2",
+    "year": 110,
+    "exam_type": "普考",
+    "category": "降雨",
+    "question": "觀測降水量所需注意五個環境條件為何？降水量的誤差依照世界氣象組織評估，那一項的影響最大？應該如何改善？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-107-1",
+    "year": 107,
+    "exam_type": "普考",
+    "category": "降雨",
+    "question": "說明在船舶上和陸地上的雨量觀測，有那些相同的觀測處置需求？以及各自需面對何種困境的挑戰？根據以上論述，那一種雨量設備適合在船舶觀測並建議安裝在船舶那些位置？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-106-4",
+    "year": 106,
+    "exam_type": "高考",
+    "category": "降雨",
+    "question": "冰珠（Ice Pellets）、霰（Snow Pellets）及雹（Hail）均為固態降水，觀測上如何分辨並說明其形成之原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-102-3",
+    "year": 102,
+    "exam_type": "普考",
+    "category": "降雨",
+    "question": "說明世界氣象組織所建議的雨量筒設置地點的環境遮蔽四種等級內容。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-99-4",
+    "year": 99,
+    "exam_type": "普考",
+    "category": "降雨",
+    "question": "在夏日午後常有雷暴雨發生，有時候還會伴隨下起直徑甚大的冰雹，若仔細觀察冰雹會發現其具有透明與不透明相間如洋蔥的冰層，試問其為何具有此種特殊結構？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-97-2",
+    "year": 97,
+    "exam_type": "普考",
+    "category": "降雨",
+    "question": "敘述世界氣象組織（WMO）所評估的地面降水觀測誤差之內容。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-2",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "降雨",
+    "question": "有關降水量與蒸發量之觀測，請回答下列問題：（20分）氣象準則觀測日雨量與蒸發量之時間為何？風對以上二者影響為何？衡重式雨量儀量測原理為何？使用人工雨量器時，如何增加量測精確度？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-88-3",
+    "year": 88,
+    "exam_type": "高考",
+    "category": "降雨",
+    "question": "試述連續性、間歇性和陣性降水，應如何判別？並說明其原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-109-5",
+    "year": 109,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "依據雨滴譜儀，請回答下列問題：(1) 請說明較小雨滴及較大雨滴墜落時其形狀有何差異（請繪圖輔助說明），並說明一般降雨時，雨滴直徑約多大（mm）。（10分）(2) 大氣中常出現如高爾夫球大的冰雹，說明為何從沒觀測到這麼大的水滴。",
+    "points": 10,
+    "sub_questions": []
+  },
+  {
+    "id": "s-108-5",
+    "year": 108,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "請說明如何運用雨滴譜儀觀測資料，透過資料校驗提升雷達資料品質。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-107-1",
+    "year": 107,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "說明光學雨量計的原理和可能誤差來源，以及它和傾斗式雨量筒觀測方式和資料詮釋應用的差異性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-106-1",
+    "year": 106,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "試說明除了雨滴粒徑分布的高時空變異性，使傳統以回波估計降雨的方法（Z-R關係式）有較大的估計誤差，Z-R關係式在利用雷達回波場進行定量降雨估計，還有那些不確定性？解決方式為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-105-2",
+    "year": 105,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "傾斗式雨量器構造和量測方法簡單有效而廣被採用，請詳述它有那些缺點？此外，傾斗容量大小應如何選擇？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-105-5",
+    "year": 105,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "詳述各種引起雨量筒觀測誤差的來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-104-2",
+    "year": 104,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "說明虹吸式雨量儀的構造、觀測原理及觀測時須注意事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-2",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "試說明以傾斗式雨量儀量測降水量時的誤差來源為何？並說明在多雨區與少雨區選用「傾斗」大小的策略。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-113-2",
+    "year": 113,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "何種地面氣象儀器可以量測到雨滴的大小及數量？並說明雨滴大小及數量是否與雷達回波值有密切關係？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-113-3",
+    "year": 113,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "通常認為傾斗式雨量儀所量測的雨量資訊應屬可靠，但就其儀器本身設計限制而言，仍會產生許多誤差，試說明之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-113-2",
+    "year": 113,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "何謂雨滴粒徑譜儀？而其觀測資料有可能會顯示出寬粒徑譜與窄粒徑譜，而這兩類粒徑譜可能所伴隨的降雨型態為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-113-3",
+    "year": 113,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "傾斗式雨量儀為量測地面雨量最重要的氣象儀器之一，目前有0.1mm與0.5 mm兩種常用的規格，試比較其優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-96-1",
+    "year": 96,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "說明傾斗式雨量計量測降雨量的原理以及可能的觀測誤差、斗杯大小對觀測誤差有什麼影響？為什麼大雨和小雨時，傾斗式雨量計一般都會有低估的現象？說明其原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-93-3",
+    "year": 93,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "傾斗式雨量儀可提供那些資料？傾斗每注滿一次所代表雨量為何？在實際操作觀測中，有何缺點？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-92-5",
+    "year": 92,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "說明地面雨量筒觀測值偏低現象的理由。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-90-3",
+    "year": 90,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "試論風力對雨量器收集降水量之影響。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-2",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "說明傾斗式雨量儀的構造與觀測原理，並提出可能造成觀測的誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-87-3",
+    "year": 87,
+    "exam_type": "普考",
+    "category": "雨量計",
+    "question": "試述傾斗式雨量儀之構造和優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-83-1",
+    "year": 83,
+    "exam_type": "高考",
+    "category": "雨量計",
+    "question": "試述虹吸式雨量儀之測定原理、構造及觀測，並說明其優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-98-3",
+    "year": 98,
+    "exam_type": "身心障礙",
+    "category": "雨量計",
+    "question": "傾斗式雨量儀之構造和量測方法簡單有效而廣被採用，但是它有那三項缺點？請詳述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-3",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "雨量計",
+    "question": "雨滴譜儀（disdrometer）：目前大部分局屬氣象站均有架設 Parsivel 雷射式雨滴譜儀，請說明 Parsivel 雷射式雨滴譜儀之觀測原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-96-1",
+    "year": 96,
+    "exam_type": "薦任",
+    "category": "雨量計",
+    "question": "簡要說明虹吸式、傾斗式及衡重式雨量儀之量測原理，並比較其優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-8",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "雨量計",
+    "question": "試說明以傾斗式雨量儀進行雨量觀測時，其可能的缺點為何。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-82-4",
+    "year": 82,
+    "exam_type": "薦任",
+    "category": "雨量計",
+    "question": "說明傾斜式雨量儀之測定原理及其造成誤差之原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-5",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "雨量計",
+    "question": "在使用日用雨量計時，有那些重要的先決條件？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-92-4",
+    "year": 92,
+    "exam_type": "簡任",
+    "category": "雨量計",
+    "question": "試簡要說明浮筒式、傾斗式及衡重式雨量儀之量測原理，並比較其優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-109-5",
+    "year": 109,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "風的量測系統可分為歐拉法（Eulerian method）及拉格朗日法（Lagrangian method），請分別說明這兩種量測方式的原理，並各舉一例。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-109-3",
+    "year": 109,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "說明二維聲波風速計測量風速風向之原理（可繪圖輔助說明）。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-108-1",
+    "year": 108,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "試說明螺旋槳式風速計之原理及其產生觀測誤差的來源？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-108-2",
+    "year": 108,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "測風氣球的理論上升速度與實際上升速度是否相同？為什麼？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-106-2",
+    "year": 106,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "試說明以單經緯儀、雙經緯儀與無線電經緯儀所獲得之各高層風向風速資料，在準確度上有何差異及其造成此項精準度差異的原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-106-2",
+    "year": 106,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "試說明風杯風速計構造及測風原理與適當的裝置環境。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-106-3",
+    "year": 106,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "試說明單經緯儀測風的誤差來源有那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-105-1",
+    "year": 105,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "風速風向儀的環境顯露度要求為何？試透過 u = (c² / 2L)(t₂ − t₁) 這一公式內涵來說明超音波風速風向計的運作原理，以及其和風杯風速計、螺旋槳風速計的優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-104-3",
+    "year": 104,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "說明單經緯儀與雙經緯儀測風的測風原理及差異。（10分）又若單經緯儀測風時氣球的上升速度為100公尺/分鐘，第3分鐘時的仰角為α₃=45°；第4分鐘時的仰角為β₃=65°，求第3～4分鐘的平均風速及風向。",
+    "points": 10,
+    "sub_questions": []
+  },
+  {
+    "id": "j-83-3",
+    "year": 83,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "說明風向的意義，風向如何表示和記錄？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-111-4",
+    "year": 111,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "近年用雷射式剖風儀（wind lidar）量測風場相當普遍，說明此款剖風儀量測風場時之限制。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-5.5",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "說明無線電探空系統量測高空風的方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-96-4",
+    "year": 96,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "比較測風經緯儀、GPS 探空系統、繫留探空系統觀測高空風的方法、原理以及限制。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-6",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "地面風場觀測的資料平均計算，以下那些敘述錯誤？ (A) 風速和風向的純量分開平均，會比風的向量平均低估 (B) 可以使用0~540°紀錄範圍來避開0~360°風向不連續的困擾 (C) 風杯轉速屬於一階反應，風箭擺動屬於二階反應，兩者不一定吻合 (D) 10分鐘是風場平均的建議時間長度",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-7",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "有關熱線式風速儀特性，以下敘述何者錯誤？ (A) 不可在潮濕天氣狀況下使用 (B) 經常運用在隧道通風監測 (C) 風速升高造成儀器的電阻升高 (D) 精確度可達0.2m/s",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-8",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "為了讓風杯轉動速率和環境風速呈線性相關，以下敘述何者正確？ (A) 風杯形狀以半圓球狀為佳 (B) 風杯直徑和風杯力臂長度比例為0.5 (C) 風杯數量為四杯 (D) 以上皆是",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-2",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "有關風之觀測，請扼要回答下列問題：（20分）氣象局正時觀測之平均風速及平均風向如何計算？陣風之定義為何？三杯型與四杯型風速計在設計上，何者為優？為什麼？達因風速儀量測風速之物理原理為何？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-91-2",
+    "year": 91,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "請扼要說明：（20分）(1) 量測地面風的標準高度 (2) 作業規範中的平均風速 (3) 陣風",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-90-2",
+    "year": 90,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "說明風速計的裝置要點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-90-2",
+    "year": 90,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "導致單經緯儀高空風觀測誤差的主要原因有那些？試說明之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-89-2",
+    "year": 89,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "試述風速與風壓的關係。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-89-2",
+    "year": 89,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "根據設計原理說明風速計種類，並簡要說明其原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-88-2",
+    "year": 88,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "說明單經緯儀高空風觀測的方法和原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-87-2",
+    "year": 87,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "試述風杯風速計的測風原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-87-2",
+    "year": 87,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "說明風杯風速計（cup anemometer）的構造和原理。在何種條件下，風杯轉速會與風速成正比？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-84-4",
+    "year": 84,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "說明風標的裝置要點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-83-3",
+    "year": 83,
+    "exam_type": "高考",
+    "category": "風",
+    "question": "比較單經緯儀和雙經緯儀觀測高空風的優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-82-2",
+    "year": 82,
+    "exam_type": "普考",
+    "category": "風",
+    "question": "在何種條件下用目測法來觀測風向和風速？如何進行風的目測？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-98-2",
+    "year": 98,
+    "exam_type": "身心障礙",
+    "category": "風",
+    "question": "測風儀器的規格都經常出現「起動風速」、「時間常數」、「距離常數」以及「臨界阻尼」，試說明這四項名詞之意義。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-97-2",
+    "year": 97,
+    "exam_type": "身心障礙",
+    "category": "風",
+    "question": "試說明以傳統的高空氣球作為高層風場觀測工具時，高空的風向、風速資料是由那些觀測數據轉換而得的？利用這種方法是否有可能獲得颱風的高層風速資料？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-3.1",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "風",
+    "question": "達因風速儀設計原理乃利用風壓（p）與風速（v）之關係，為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-4",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "風",
+    "question": "分別說明聲學風速計（sonic anemometer）和剖風儀（wind profiler）的測風原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-4",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "風",
+    "question": "在沒有風速計時欲估計風向風速，應注意那些條件？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-1.3",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "風",
+    "question": "風向風速計之設置，應距地面多高為原則？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-105-2",
+    "year": 105,
+    "exam_type": "普考",
+    "category": "能見度",
+    "question": "敘述盛行能見度的目視觀測與紀錄方式，以及能見度儀器量測的氣象光學視程（MOR）觀測原理。此外，MOR 和目視觀測能見度要如何彼此搭配使用？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-104-2",
+    "year": 104,
+    "exam_type": "高考",
+    "category": "能見度",
+    "question": "用目視方法來觀測能見度，事實上存在許多問題，如環境或地形限制等。因此就有能見度儀的使用，尤其是機場，試說明能見度儀的觀測原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-5",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "能見度",
+    "question": "能見度觀測之計算原則為何？並舉例說明。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-92-2",
+    "year": 92,
+    "exam_type": "普考",
+    "category": "能見度",
+    "question": "說明盛行能見度的定義。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-87-4",
+    "year": 87,
+    "exam_type": "普考",
+    "category": "能見度",
+    "question": "試述日間觀測能見度時，目標物之選定條件。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-83-4",
+    "year": 83,
+    "exam_type": "普考",
+    "category": "能見度",
+    "question": "能見度目視觀測應注意那些事項？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-1.3",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "能見度",
+    "question": "何謂能見度？其影響因子為何？日夜觀測之差異為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-108-3",
+    "year": 108,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "試說明在觀測上如何區分雨層雲、高層雲、積雨雲？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-108-1",
+    "year": 108,
+    "exam_type": "高考",
+    "category": "雲",
+    "question": "雲狀、雲量的觀測是大氣觀測中重要的一環，試說明這些雲的觀測資料可對不同尺度天氣預報及氣候提供那些訊息？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-101-3",
+    "year": 101,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "說明高、中、低雲族之十大雲屬的名稱、英文代碼以及可能伴隨之天氣特徵。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-100-2",
+    "year": 100,
+    "exam_type": "高考",
+    "category": "雲",
+    "question": "試問在觀測上如何分辨積雨雲與積雲、雨層雲，並說明此三種雲組成之物理特性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-111-5",
+    "year": 111,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "衛星雲圖上常可看到砧狀雲，且砧狀雲的幾何形狀常有不同（如圓形或是楔形）。（每小題10分，共20分）(1) 說明砧狀雲的形狀與高空風之關係。(2) 說明砧狀雲的形狀所伴隨之高層輻散場。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-99-5",
+    "year": 99,
+    "exam_type": "高考",
+    "category": "雲",
+    "question": "試問在觀測到天空出現莢狀雲時，當時主要的可能天氣或地理環境條件為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-98-4",
+    "year": 98,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "測定雲高有那些方法？簡述其基本原理。（10分）簡述卷層雲、高積雲以及層雲的形態、以及組成之物理特性。（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-91-3",
+    "year": 91,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "試述積雨雲和積雲之定義，並區別其間之差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-90-3",
+    "year": 90,
+    "exam_type": "普考",
+    "category": "雲",
+    "question": "簡述十種雲屬及其伴隨之天氣現象。（雲屬並請以國際記號表之）",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-89-3",
+    "year": 89,
+    "exam_type": "高考",
+    "category": "雲",
+    "question": "試述積雨雲之物理組成及形態，並說明其與兩層雲之主要差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-87-3",
+    "year": 87,
+    "exam_type": "高考",
+    "category": "雲",
+    "question": "伴隨積雨雲可能出現的天氣現象有那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-100-1",
+    "year": 100,
+    "exam_type": "薦任",
+    "category": "雲",
+    "question": "簡述卷層雲、積雨雲以及霧之結構與形態特性，以及可能伴隨之天氣現象。這些雲在可見光雲圖以及紅外線雲圖上會有什麼特徵？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-96-3",
+    "year": 96,
+    "exam_type": "薦任",
+    "category": "雲",
+    "question": "雲冪高觀測之計算原則為何？並舉例說明。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-112-4",
+    "year": 112,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "如何從氣象雷達回波資訊得知地面可降雨量？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-111-1",
+    "year": 111,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "單位體積中有 n 個水滴，且直徑均為 d。 若總質量不變，這些水滴聚合成直徑均為 2d 之水滴，請問水滴個數變成多少個？雷達偵測到的回波會增加或減少幾 dB？（20分） 若這 n 個水滴凝結成冰，假設水滴大小仍為 d，請問雷達偵測到的回波會增加或減少幾 dB？（10分）",
+    "points": 30,
+    "sub_questions": []
+  },
+  {
+    "id": "j-109-1",
+    "year": 109,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "中央氣象局網頁隨時都有最新之全臺整合雷達回波圖，請說明這個整合雷達回波圖是如何得到的？使用時有無需要特別注意的地方？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-109-2",
+    "year": 109,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "有關雷達電磁波傳播，請回答下列問題：何謂雷達電磁波槽化現象（ducting）？（10分）大氣在那些環境下電磁波較容易出現槽化現象？（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-108-5",
+    "year": 108,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "試說明以雙偏極化雷達觀測所得之「比相位差」（specific differential phase shift）用於雷達定量降雨估計時的優缺點為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-107-2",
+    "year": 107,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "說明天氣雷達觀測的回波數據，是如何再被加值成為定量降水估計的產品。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-107-2",
+    "year": 107,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "目前氣象業務單位使用的天氣雷達（weather Radar），和正在研究發展中的雲雷達（cloud Radar）有何異同？後者預期能再有那些新的參數與應用？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-105-5",
+    "year": 105,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "從氣象雷達反射因子（Z，單位：mm⁶/m³）推演到降水量（R，單位：mm/hr），需要那些額外的觀測資訊或是假設？舉例說明一種現行的 Z 與 R 的函數關係並解釋之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-104-5",
+    "year": 104,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "說明為何臺灣地區需要建立防災降雨雷達網？又防災降雨雷達與現行使用的雷達有那些差異？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-102-5",
+    "year": 102,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "依據世界氣象組織觀測儀器與方法守則，列舉氣象雷達觀測 13 種誤差之來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-97-3",
+    "year": 97,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": " 由氣象雷達回波強度（Z）推演到降水量（R, mm/hr），需要那些額外的觀測資訊或是假設？（10分） Z 與 R 的函數關係為何？（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-97-3",
+    "year": 97,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "如果有一架飛機或是一部偏極化雷達，需要那些概念和那些量測參數，才能獲得雲朵的液態水含量（liquid water content of a cloud, LWC）？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-20",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "氣象觀測作業雷達特性，那一項敘述錯誤？(A) 3 公分波長的降水衰減比 10 公分波長約大 100 倍 (B) 相同天線尺寸下，波長越長的雷達系統對目標物偵測越靈敏 (C) 雷達對於晴空的相當反射（equivalent reflectivity）強度值約是 -5 ~ -55 dBZ (D) 為了達到 200 公里之外 0.1mm/hr 的偵測能力，5 公分波長雷達系統就大約需要 250 千瓦的電功率",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-92-3",
+    "year": 92,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "試解釋 CAPPI、PPI、RHI 雷達回波影像各是什麼涵義？雷達反射回波強度單位 Z 和 dBZ 兩者的數學關係為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-90-4",
+    "year": 90,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "雷達回波中之地面雜波是什麼？如何消除它？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-98-1",
+    "year": 98,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "天氣雷達（weather radar）和剖風儀雷達（wind profiler radar）利用什麼原理來觀測反射率（回波）以及風場？（10分）說明利用氣象雷達的回波反射率估計降水的方法、誤差來源以及可能之改善方法。（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-89-4",
+    "year": 89,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "試列舉雷達回波在示波器上顯示可有那些型式？並略加說明之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-83-1",
+    "year": 83,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "雷達天線如何控制其發射或接收之功能？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-83-5",
+    "year": 83,
+    "exam_type": "高考",
+    "category": "雷達",
+    "question": "試繪製並說明雷達接收系統的典型流程圖。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-82-1",
+    "year": 82,
+    "exam_type": "普考",
+    "category": "雷達",
+    "question": "需達之鉤狀回波如何在雷達幕上辨識？其操作技巧為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-4",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "雷達",
+    "question": "氣象雷達是測量降雨的重要工具，說明氣象雷達量測降雨之方法以及限制。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-98-2",
+    "year": 98,
+    "exam_type": "薦任",
+    "category": "雷達",
+    "question": "試說明傳統氣象雷達、都卜勒氣象雷達及雙偏極氣象雷達的工作原理與功能。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-84-1",
+    "year": 84,
+    "exam_type": "薦任",
+    "category": "雷達",
+    "question": "請解釋下列雷達回波之現象：（每小題5分，共20分）海面回波、螺旋帶回波、槽化現象（Ducting phenomena）、地面回波。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "c-94-3",
+    "year": 94,
+    "exam_type": "簡任",
+    "category": "雷達",
+    "question": "試述氣象雷達與衛星所應用之觀測原理與使用電磁波的波段（波長）有何不同，並說明此兩種觀測資料對天氣預報改進的影響。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-113-1",
+    "year": 113,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "氣象都卜勒雷達是能提供雲內風場資訊的重要觀測工具。另一方面，我們也知道氣象都卜勒雷達只能量測雲內降水粒子的運動狀況。試說明雷達所觀測的降水粒子運動與實際空氣運動的關係。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-113-1",
+    "year": 113,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "氣象都卜勒雷達是監測降水系統重要的觀測工具，但其觀測訊號常包含許多問題，例如海面雜波、地形雜波、風速折錯、二次回波等等情形，試分別說明產生這些雜訊的原因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-111-1",
+    "year": 111,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒雷達除了偵測降雨外，同時也可以偵測徑向風（radial wind）。（每小題10分，共20分）(1) 說明偵測徑向速度的原理？(2) 若有一直徑約 20 公里之逆時針方向旋轉之氣旋，且氣旋中心位於雷達東南方60公里處，則雷達偵測到的徑向速度分布為何？（請繪圖說明）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-109-1",
+    "year": 109,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒雷達電磁波頻率偏移，假設雷達發出的電磁波為 cos(w0t)，w0 為電磁波之頻率，t 為時間，受到移動物體之影響，散射回來之電磁波頻率為 cos(wt)，而 w = w0 − w 為都卜勒頻率偏移（Doppler frequency shift），其中 w0 及 w 均遠大於 w，即 w0 及 w 均為很高頻率的波，而 w 為很低頻率的波，請問如何利用混波技術得到低頻率的波 w？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-106-5",
+    "year": 106,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "請問如何利用都卜勒氣象雷達資料定位颱風中心？但限制為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-4",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "比較傳統雷達、都卜勒雷達、雙偏極化雷達之觀測項目以及在天氣分析上之應用差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-103-2",
+    "year": 103,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒氣象雷達可以觀測降水回波與徑向速度，說明觀測這兩種參數的基本原理以及利用雷達之降雨估計方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-101-2",
+    "year": 101,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "說明都卜勒（Doppler）氣象雷達觀測降水回波及風場的原理與應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-101-3",
+    "year": 101,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "說明傳統雷達、都卜勒氣象雷達與雙偏極化雷達的降水觀測原理以及在定量降水估計應用之差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-100-5",
+    "year": 100,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "試說明傳統氣象雷達、都卜勒雷達及雙偏極化雷達的工作原理與功能有何差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-5.3",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒雷達利用什麼原理量測降水發生地點的距離？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-96-5",
+    "year": 96,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "利用都卜勒雷達來觀測降水系統時：(1) 層狀降水與對流降水在回波的垂直分布上有什麼差異？（5分）(2) 輻合運動和旋轉運動的都卜勒記號（Doppler Signature）有什麼特徵？（10分）(3) 說明雷達估計降水的原理以及可能的誤差。（10分）",
+    "points": 25,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-5",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "回答以下有關雷達觀測技術的問題。（20分）(1) 如果都卜勒雷達位在原點，請寫出在某一點（x, y, z）上都卜勒雷達觀測到的徑向風（Vr）與該點風場（u, v, w），以及雨滴終端速度（Vt）之間的關係。(2) 請利用上述關係式說明雙都卜勒雷達合成三維風場的原則。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-94-5",
+    "year": 94,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒氣象雷達估計一個天氣系統內的風場分佈與回波距離時，會遇到一個兩難的問題，請寫出估計風場與回波距離的公式，說明公式中各項的定義，並根據公式解釋這個兩難問題是什麼？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-16",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "都卜勒氣象雷達所能清晰（unambiguous）偵測的最大風速，和那兩種參數有關？(A) 光速 C 和雷達發射功率 Pt (B) 發射的電磁波波長 λ 和發射時間頻率（pulse repetition frequency）(C) 雷達天線仰角 γ 和電磁波波束半寬 θ (D) 以上皆錯",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-90-5",
+    "year": 90,
+    "exam_type": "高考",
+    "category": "都卜勒雷達",
+    "question": "試述都卜勒雷達觀測之原理，其觀測目標物速度及雷達觀測距離有何限制？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-5.2",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "S 波段之都卜勒雷達波長大約是多少公分？雷達反射率一般用什麼單位來表示？解釋其意義。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-87-5",
+    "year": 87,
+    "exam_type": "普考",
+    "category": "都卜勒雷達",
+    "question": "傳統雷達與都卜勒雷達可觀測的現象有那些異同處？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-100-2",
+    "year": 100,
+    "exam_type": "薦任",
+    "category": "都卜勒雷達",
+    "question": "簡述都卜勒天氣雷達利用什麼原理來觀測降水回波以及風場？簡述都卜勒天氣雷達常用的波長種類，並比較其特性與在即時天氣觀測之應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-6",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "都卜勒雷達",
+    "question": "說明如何利用都卜勒氣象雷達的徑向風資料，來協助研判颱風鄰近臺灣時之颱風中心位置。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-2",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "都卜勒雷達",
+    "question": "雙偏極化都卜勒氣象雷達（dual-polarized Doppler radar）：說明用雙偏極化都卜勒雷達參數估計降雨量之優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-3.2",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "都卜勒雷達",
+    "question": "都卜勒雷達優於傳統雷達之處為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-109-4",
+    "year": 109,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "太陽輻射亦稱為短波輻射，說明短波輻射經過地球大氣層時會因那些因素而衰減。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-108-3",
+    "year": 108,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "試說明什麼是天文日照時數、可能日照時數、實測日照時數？（6 分）在觀測上可應用那些方式來進行日照時數的觀測？",
+    "points": 6,
+    "sub_questions": []
+  },
+  {
+    "id": "j-107-4",
+    "year": 107,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "日照時數計和太陽短波輻射儀的量測單位為何？彼此有何關聯？需要那一種觀測來補足兩者關聯性？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-98-3",
+    "year": 98,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "說明下列輻射儀器的功用以及測量項目（每小題4分共20分）：直達日射計（Pyrheliometer）、太陽光度計（Sun photometer）、全波段輻射計（Pyrradiometer）、全波段淨輻射計（Net pyrradiometer）、全天日射儀（Pyranometer）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-98-5",
+    "year": 98,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "說明銀盤直達日射計之觀測步驟、觀測項目以及可以進一步推導出那些物理量。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-96-2",
+    "year": 96,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "說明太陽光度計（Sun photometer）與直達日射儀觀測之項目、原理以及應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-1.2",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "何謂天文與可能日照時數？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-3",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "日照時數（Sunshine Duration）儀器啟動時的直射陽光強度為多少？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-91-4",
+    "year": 91,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "請按大小順序排列 (1) 天文日照時數，(2) 實測日照時數，(3) 可能日照時數，並說明造成三種日照時數差異的可能因素。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-90-4",
+    "year": 90,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "說明自記直達日射計的原理及構造。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-89-5",
+    "year": 89,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "簡答以下問題：(一) 在地面測站通常觀測那些太陽輻射量？(10分)(二) 何謂太陽常數？其數值為多少？(10分)",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-89-4",
+    "year": 89,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "全天輻射計可用來測定那些輻射量？測定不同輻射量時，其裝置有何差別？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-88-4",
+    "year": 88,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "康培司托克日照計（Campbell Stokes Sunshine Recorder）之弧形架內為何需要有三條記錄卡槽？三種記錄卡之使用有何區別？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-88-4",
+    "year": 88,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "試述太陽輻射觀測儀器在安置時與保養時應注意之事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-87-4",
+    "year": 87,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "日常作業觀測太陽輻射量的儀器主要可分成那兩大類？試說明之，並各列舉一種常用的儀器。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-84-3",
+    "year": 84,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "請寫出標放自記日射計的三個主要組件，並說明各組件的功能。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-83-5",
+    "year": 83,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "某測站位於平原，測站附近沒有高山，亦無高建築物，從氣象常用表上查出在某日之天文日照時數為10.6小時，若當日全天都是晴天，請問當日之可能日照時數及實測日照時數各為幾小時，並說明計算上述兩種日照時數之根據。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-83-2",
+    "year": 83,
+    "exam_type": "高考",
+    "category": "輻射/日照",
+    "question": "太陽光進入大氣層後，可以何種方式到達地面？在地面測站通常觀測那些太陽輻射量？使用何種儀器？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-82-4",
+    "year": 82,
+    "exam_type": "普考",
+    "category": "輻射/日照",
+    "question": "請比較康培司托克日照計（Campbell Stokes Sunshine Recorder）及約旦日照計（Jordan Sunshine Recorder）之測定原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-98-4",
+    "year": 98,
+    "exam_type": "身心障礙",
+    "category": "輻射/日照",
+    "question": "太陽輻射量經過地球大氣層時，主要受到那三部分現象的衰減？到達地面上的太陽輻射量可分為那兩分量？「日照時數」是指以上那一分量的那一臨界數值？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-106-5",
+    "year": 106,
+    "exam_type": "薦任",
+    "category": "輻射/日照",
+    "question": "說明地面氣象觀測業務中，「日照時數」、「太陽輻射」以及「紫外線輻射」的設備工作原理，以及三者量測參數之間的交集和差別。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-96-4",
+    "year": 96,
+    "exam_type": "薦任",
+    "category": "輻射/日照",
+    "question": "如何量測地表反射輻射量？其所常用儀器之基本原理與結構為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-3.4",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "輻射/日照",
+    "question": "何謂太陽常數？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-84-4",
+    "year": 84,
+    "exam_type": "薦任",
+    "category": "輻射/日照",
+    "question": "自記直達日射計係由一直達電力式日射計與一資料蒐集處理系統組成，請以一簡單圖示說明該直達電力式日射計的構造及測定原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-1.5",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "輻射/日照",
+    "question": "太陽常數為多少？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-4",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "何謂氣象衛星的色調強化技術？此技術主要用於何種頻道及天氣現象？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-108-4",
+    "year": 108,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "試從原理說明衛星使用 3.7 或 3.9 微米（μm）頻道與紅外線頻道進行表面溫度探測時，所呈現的特性有何差異？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-108-4",
+    "year": 108,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "衛星微波感應器在氣象上主要應用的頻道有那些？試述其觀測特性並說明未來發展之 5G 通訊對其在氣象觀測上是否有影響？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-107-3",
+    "year": 107,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "請舉兩例說明美國 GPS（global positioning system）衛星群如何應用在氣象觀測。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-107-3",
+    "year": 107,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "說明美國國家航空及太空總署（NASA）的全球降水觀測（GPM）特點，以及其和地基型氣象雷達的降雨估計、地面雨量站網三種雨量觀測資料之間如何互補？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-105-4",
+    "year": 105,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "說明日本向日葵 8 號（Himawari-8）地球同步衛星之特色，以及其和先前的 MTSAT 地球同步衛星的異同之處。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-105-3",
+    "year": 105,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "掩星（constellation）技術如何應用在福爾摩沙衛星七號對於地球大氣觀測，以及其有那些觀測項目？該衛星相較於福爾摩沙衛星三號又有何重大改進之處？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-104-4",
+    "year": 104,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "說明在低軌衛星安裝 GPS 接收機進行大氣溫度垂直分布的探測原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-6",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "分析地球同步衛星與繞極衛星的差異，及其使用時的優點及缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-103-5",
+    "year": 103,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "若兩相鄰衛星觀測視場（Field-of-view），其一為完全晴空，另一為完全為高雲覆蓋且有對流性強降雨現象。請分析以上兩視場分別於 (一) 紅外線 11μm 及微波波段所觀測到的亮溫（Brightness temperature）差異，及其輻射性質上的主要肇因。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-102-3",
+    "year": 102,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "利用衛星遙測的「射出紅外線輻射強度」公式，來說明水汽、臭氧垂直分布的反演原理，並利用上式來闡述何謂大氣遙測的「正問題」和「反問題」。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-100-1",
+    "year": 100,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "試說明紅外線遙測與微波遙測原理，並比較其優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-99-4",
+    "year": 99,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "衛星遙測在反演風場時均以應用地球同步氣象衛星觀測資料為主，試問其原因為何？此外亦請說明在反演風向風速時的基本方法為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-98-5",
+    "year": 98,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "如何利用衛星觀測到不同波段的紅外線輻射強度資料，估算地表溫度與對流層頂溫度？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-5.4",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "簡述衛星遙測雲頂溫度和雲層厚度的原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-4",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "目前在應用衛星遙測估算降水時最主要的應用頻道即為微波頻道，試說明應用衛星微波頻道估算降水的基本原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-94-4",
+    "year": 94,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "請描述應用衛星可見光和紅外線觀測資料判別強對流降雨區、晴天卷雲區、霧區和晴空海面的方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-14",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "有關衛星遙測技術，何者敘述錯誤？(A) 輻射儀紅外頻道是以外太空背景溫度為冷參考點 (B) 臨邊效應造成大氣剖面權重函數的極大值高度下降 (C) 由於機載校驗困難，可見光頻道數據比紅外頻道數據要來得小心使用 (D) 大氣剖面反演的精確度難以評估",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-15",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "有關衛星微波遙測，何者敘述正確？(A) 海表面溫度遙測的空間解析度較紅外頻道差 (B) 海面亮度溫度比紅外頻道量測結果來得高 (C) 微波遙測完全不受雲的影響 (D) 以上皆錯",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-93-5",
+    "year": 93,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "應用衛星遙測地表溫度時，對頻道的選擇考量及需處理或校正的程序為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-3",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "遙測溫濕度儀中量測溫度與濕度之感應元件為何？量測原理為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-92-1",
+    "year": 92,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "說明「雲」和「大氣效應」對衛星遙測海面溫度的影響。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-89-5",
+    "year": 89,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "若要用衛星遙測法決定氣溫垂直分布，必須在那些氣體的吸收帶上進行觀測？為什麼？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-88-5",
+    "year": 88,
+    "exam_type": "普考",
+    "category": "衛星",
+    "question": "電磁波譜中有許多區域大氣的吸收和散射很小，稱為窗區。窗區頻道在大氣遙測中有那些主要用途？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-88-5",
+    "year": 88,
+    "exam_type": "高考",
+    "category": "衛星",
+    "question": "地球同步衛星（GMS）現在有水汽頻道，這個頻道的主要用途有那些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-100-3",
+    "year": 100,
+    "exam_type": "薦任",
+    "category": "衛星",
+    "question": "比較 GPS 無線電探空儀之探空觀測與福衛三號 GPS 掩星探空觀測之原理，觀測項目以及在天氣分析與預報上的可能應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-96-5",
+    "year": 96,
+    "exam_type": "薦任",
+    "category": "衛星",
+    "question": "遙測技術是利用物體對電磁波所反射或發射之輻射能量進行目標物之分析，所以波段頻道的選用很重要。目前國際上最常使用之遙測頻道為那三個波段？並說明各波段之特性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-91-5",
+    "year": 91,
+    "exam_type": "普考",
+    "category": "雲圖",
+    "question": "可見光雲圖上較亮和較暗的地方代表什麼意義？紅外雲圖上較亮和較暗的地方代表什麼意義？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-87-5",
+    "year": 87,
+    "exam_type": "高考",
+    "category": "雲圖",
+    "question": "簡略說明如何應用可見光和紅外線雲圖資料分辨卷雲、層雲和積雨雲。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-1",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "雲圖",
+    "question": "傳統衛星雲圖：影響可見光雲圖亮度及紅外線（11.2 微米）雲圖亮度的主要因素各有哪些？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-98-1",
+    "year": 98,
+    "exam_type": "薦任",
+    "category": "雲圖",
+    "question": "利用遙測方式以地面、飛機或衛星等設備為平台，經由所接受到之大氣電磁波能量變化的物理特徵，可反演出大氣水汽、雲降水空間分布概況。試說明以可見光、紅外線及微波等電磁波波段進行探測（即衛星雲圖）時的原理依據及彼此間的相對優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-5",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "雲圖",
+    "question": "何謂可見光雲圖、紅外線雲圖和水氣雲圖？扼要說明如何判讀這些雲圖的特徵。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-6",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "雲圖",
+    "question": "試說明強對流積雲和層雲在衛星可見光和紅外線影像上特徵之差異？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-5",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "雲圖",
+    "question": "(一) 氣象衛星雲圖有哪幾種？(二) 雲圖中的顏色代表意義為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-111-4",
+    "year": 111,
+    "exam_type": "高考",
+    "category": "儀器",
+    "question": "電子式電阻溫度儀乃依據電阻原理設計的，可分為正電阻式及負電阻式，請分別說明其原理、所用之材質及優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-110-1",
+    "year": 110,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "針對溫度、濕度、風、降雨、氣壓這五大項目氣象觀測，列出中央氣象局綜觀氣象站新一代觀測系統所採用的觀測儀器、查核儀器、觀測物理量之解析度及單位。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-108-2",
+    "year": 108,
+    "exam_type": "高考",
+    "category": "儀器",
+    "question": "試說明雙金屬片溫度儀和電阻式溫度儀的原理是什麼？並分述其特點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-104-1",
+    "year": 104,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "氣象的變化非常複雜，為能滿足完整與準確的量測，必須充分了解氣象儀器的性能，方能適當的選用儀器。因此在選用氣象儀器時，需考慮儀器的那些特性？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-101-5",
+    "year": 101,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "說明利用測風經緯儀與 GPS 無線電探空儀觀測高空氣象的觀測原理、觀測項目與觀測範圍之差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-101-1",
+    "year": 101,
+    "exam_type": "高考",
+    "category": "儀器",
+    "question": "說明熱電偶全天輻射儀之量測原理以及觀測天空散亂輻射量與地表反射量時之儀器架設與觀測方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-92-4",
+    "year": 92,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "一套儀器或量測系統（instrument or measuring system）硬體基本架構，可區分為那三大部分？試詳述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-89-1",
+    "year": 89,
+    "exam_type": "高考",
+    "category": "儀器",
+    "question": "試說明儀器之靈敏度（sensitivity）和應答時間（response time）的意義。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-106-3",
+    "year": 106,
+    "exam_type": "薦任",
+    "category": "儀器",
+    "question": "說明雷射雲冪儀和能見度儀的量測原理，以及它們的量測和人工觀測結果的優缺點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-108-4",
+    "year": 108,
+    "exam_type": "薦任",
+    "category": "儀器",
+    "question": "氣象儀器反應時間（response time）：（每小題10分，共20分）(1) 在做氣象觀測時，每項儀器要量測多久與該儀器之反應快慢有關，請說明儀器「反應時間」的定義為何？(2) 若某氣象儀器之反應時間為 T，如果要求測量誤差在 5% 以內，則最少要測量多長時間？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-113-4",
+    "year": 113,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "何謂 In-situ 觀測？試問探空觀測、氣壓計、剖風儀、風速計與衛星觀測是否都屬於此類？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-112-2",
+    "year": 112,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "說明地面反照率的定義以及觀測方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-112-3",
+    "year": 112,
+    "exam_type": "普考",
+    "category": "儀器",
+    "question": "高空風場的觀測，早期使用無線電三角定位，現今用 GPS 定位，兩者有何異同？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-3",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "說明日射量觀測之環境條件與維護時應注意之事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-5",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "試說明臭氧探空觀測所攜帶的儀器、希望氣球飛行達高度範圍、臭氧濃度量測原理及數值訂正方法？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-6",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "說明光達觀測大氣氣膠剖面的原理與限制，及如何利用資料推測大氣垂直結構？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-102-1",
+    "year": 102,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "說明中央氣象局地面氣象自動測報系統觀測要素種類之量測範圍、解析度、精確度。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-101-4",
+    "year": 101,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "說明如何利用地面觀測、探空觀測與斜溫圖來分析大氣之穩定度、水氣含量與雲底之高度。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-1",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "試說明日暈（Solar Halo）、日華（Solar Corona）、虹（Rainbow）的成因及在觀測時應如何分辨？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-5",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "試說明下列有關高空觀測的問題：(1) 繪製 SKEW-T 圖所需的氣象參數有哪些？（5分）(2) 當以施放探空氣球進行高空氣象參數觀測時，地面接收系統所接收到的原始資料參數有哪些？（5分）(3) SKEW-T 圖所需的氣象參數與地面接收到的原始資料參數中，有哪些參數需要經轉換手續及如何轉換？（5分）",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "j-99-1",
+    "year": 99,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "若要觀測得到正確可靠的氣象資料，試問有哪三項必要條件一定是不可或缺的？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-99-3",
+    "year": 99,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "地面觀測站在觀測雲量時主要仍是靠目視觀測，一般稱之為視雲量，視雲量與實際雲量之間仍有一些差異，試問此差異是由哪些因素造成的？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-99-1",
+    "year": 99,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "一般在觀測雲高時常用目測法，惟其準確度受觀測人員的經驗與能力所限，因此最近發展出脈波法，試問脈波法觀測雲高的基本原理為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-97-5",
+    "year": 97,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "說明閃電的強度與定位觀測的兩大概念與特性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-95-4",
+    "year": 95,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "何謂大氣窗區頻道？大氣窗區頻道在遙測應用上的主要功能為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-1.4",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "氣溫及風速標準量測高度為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-94-1",
+    "year": 94,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "雲之觀測主要項目為何？並簡述其內容。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-94-2",
+    "year": 94,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "試分析常用氣壓儀、溫度儀、濕度儀、風向風速儀、虹吸式雨量儀之感應元件為何？其感應氣象要素之物理原理為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-105-4",
+    "year": 105,
+    "exam_type": "高考",
+    "category": "觀測與儀器綜合",
+    "question": "詳述大氣閃電強度與空間定位觀測的偵測方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-88-1",
+    "year": 88,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "述現場觀測（in-situ）和遙測（remote sensing）原理的差異。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-88-2",
+    "year": 88,
+    "exam_type": "普考",
+    "category": "觀測與儀器綜合",
+    "question": "一般日常作業如何深測高空的溫度、濕度和氣壓？其基本原理為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-97-5",
+    "year": 97,
+    "exam_type": "身心障礙",
+    "category": "觀測與儀器綜合",
+    "question": "試說明在天氣現象觀測中，如何區別霧、霾及靄。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-106-1",
+    "year": 106,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "說明目前地面氣象觀測業務中的人工觀測項目有哪些？以及這些項目改由儀器自動觀測的可行性（優缺點）為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-3",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "試就蒸發皿口徑大小、顏色、材質、深度、及安置環境情形，說明理想的蒸發量量測應符合哪些條件。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-98-4",
+    "year": 98,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "在氣象儀器的選用時，我們常會考慮到儀器的特性，試說明下列儀器特性的意義： (1) 測距（Range）(2) 極限（Limitation）(3) 準確性（Accuracy）(4) 代表性（Representation）",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-98-5",
+    "year": 98,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "由於以雷文送（Rawin Sounding）進行高空大氣探測時，雷文送通常不重複使用，故在儀器的設計需求就與地面觀測儀器的要求有所不同，試說明雷文送的設計要求為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-82-2",
+    "year": 82,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "遙測或自動氣象觀測系統之主要組件為何？並加以說明。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-84-3",
+    "year": 84,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "說明熱線風速計（Hotwire anemometer）的構造和原理。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-84-5",
+    "year": 84,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "觀測儀器之選擇，應就哪些方面來考慮？請敘述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a*-88-6",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "說明艾薩萊全天空輻射計（Eppley pyranometer）的構造和原理，安置此儀器時應注意哪些事情？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-4",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "觀測與儀器綜合",
+    "question": "以下自記儀器之感應部分為何？（每小題4分，共20分）(一) 氣壓儀 (二) 溫度儀 (三) 濕度儀 (四) 風向風速儀 (五) 虹吸式雨量儀",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "c-94-4",
+    "year": 94,
+    "exam_type": "簡任",
+    "category": "觀測與儀器綜合",
+    "question": "試扼要說明安置氣壓計、溫度計、雨量計及風速計等氣象觀測儀器之環境條件有何異同之處。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-106-3",
+    "year": 106,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "各種測站之設置目的不同，設站地點所需考量的條件也就不同，試說明綜觀天氣站、氣候站及農業氣象站的設站地點選擇考慮條件為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-104-1",
+    "year": 104,
+    "exam_type": "高考",
+    "category": "測站",
+    "question": "若測站的觀測時間為當地早上8時，說明觀測員開始進行觀測時間、觀測項目與順序、觀測結束以後的工作內容。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-101-1",
+    "year": 101,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "說明一般地面氣象站之觀測坪的環境需求與儀器之布置特性。地面風觀測塔之設置有何特別之考量？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-4",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "試說明下列有關百葉箱的問題：百葉箱為何以木材製作為主？（2分）為何百葉箱在北半球應朝北開？（2分）百葉箱為何內、外均塗以白漆？（2分）百葉箱為何要有通風設備？（2分）百葉箱中會擺放那些氣象觀測儀器？（7分）",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-1",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "配有人工觀測的地面氣象站一般均設有百葉箱：設置百葉箱時必須注意那些事項？（5分）百葉箱中一般會擺置那些儀器？（5分）從百葉箱中的儀器可以觀測那些氣象要素？（5分）",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "j-93-1",
+    "year": 93,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "簡答以下問題：（1）配合國際觀測規定下，中央氣象局恆春氣象站每日必要觀測時間為何？板橋探空觀測呢？（10分）（2）各氣象站對於基本氣象要素之觀測應於多少時間內完成，始合乎要求？以溫度、雲及氣壓三者而言，觀測順序為何？（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-2",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "說明一般氣象站最低氣溫與最高氣溫觀測及復度時間以及復度操作注意事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-2",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "何謂蒸發量？簡述 A 型蒸發皿的構造以及觀測蒸發量的要點。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-95-1",
+    "year": 95,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "簡要繪製標準氣象觀測坪之基本氣象儀器配置圖，並說明觀測坪設置主要環境考量。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-88-3",
+    "year": 88,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "試述 A 型蒸發器之構造及觀測步驟。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-87-1",
+    "year": 87,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "說明觀測坪之佈置應注意事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-84-1",
+    "year": 84,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "試述百葉箱內儀器安置應注意哪些事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-82-5",
+    "year": 82,
+    "exam_type": "普考",
+    "category": "測站",
+    "question": "觀測員應如何檢查水銀氣壓計之真空度？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-98-1",
+    "year": 98,
+    "exam_type": "身心障礙",
+    "category": "測站",
+    "question": "綜觀天氣站和航空氣象站的觀測時間，為何要採用世界標準時？氣候站和農業氣象站的觀測時間卻要採用地方時？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-97-1",
+    "year": 97,
+    "exam_type": "身心障礙",
+    "category": "測站",
+    "question": "試說明下列有關百葉箱的問題：（20分）百葉箱為何以木材製作為主？為何百葉箱在北半球應朝北開？百葉箱為何內、外均塗以白漆？百葉箱為何要有通風設備？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "d-97-4",
+    "year": 97,
+    "exam_type": "身心障礙",
+    "category": "測站",
+    "question": "試說明良好觀測坪位置應具備那些條件？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-5",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "說明一般綜觀地面氣象站量測氣壓、氣溫、濕球溫度、風向、風速與降雨量等氣象參數之準確度需求。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-96-2",
+    "year": 96,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "地面綜觀天氣站與探空站所代表空間範圍大約多少？就前述二者之設立準則而言，臺灣目前所建立之觀測網是否足夠？試論述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-1",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "若某綜觀氣象觀測站應於 1200 UTC 進行觀測，試問該觀測員應在多少分鐘內完成所有的觀測程序，並說明各氣象要素（雲量、風向風速、氣溫、氣壓---等）的觀測順序。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-82-5",
+    "year": 82,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "說明百葉箱內儀器安置應注意事項。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-88-1",
+    "year": 88,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "在百葉箱內，各儀器間的安置，應注意哪些條件？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-1.1",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "測站",
+    "question": "綜觀天氣站站與站之距離規範原則為何？高空天氣站呢？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-92-2",
+    "year": 92,
+    "exam_type": "簡任",
+    "category": "測站",
+    "question": "天氣現象可歸納成哪些種類？列舉說明。進行天氣現象觀測時，應包含哪些項目？並簡述該項觀測之內容及意涵。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-92-3",
+    "year": 92,
+    "exam_type": "簡任",
+    "category": "測站",
+    "question": "地面綜觀天氣站與探空站所代表空間範圍大約多少？就前述二者之設立準則而言，台灣目前所建立之觀測網是否足夠？或過多？試論述之。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-94-1",
+    "year": 94,
+    "exam_type": "簡任",
+    "category": "測站",
+    "question": "試簡要說明氣象局建立地面氣象自動測報系統之功能。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-102-2",
+    "year": 102,
+    "exam_type": "普考",
+    "category": "符號",
+    "question": "說明「霧」、「霾」、「煙」等三種天氣現象測報上之定義與符號。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-110-5",
+    "year": 110,
+    "exam_type": "普考",
+    "category": "符號",
+    "question": "天氣現象中，日暈（Solar Halo）、日華（Solar Corona）、虹（Rainbow）的天氣符號、成因及在觀測時應如何分辨？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-103-3",
+    "year": 103,
+    "exam_type": "高考",
+    "category": "符號",
+    "question": "寫出下列天氣現象之符號及其定義或天氣特徵。（每小題4分，共20分）：毛雨（Drizzle）、雹（Hail）、霧（Fog）、霾（Haze）、靄（Mist）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-96-5.1",
+    "year": 96,
+    "exam_type": "普考",
+    "category": "符號",
+    "question": "寫出陣雨、雷雨、霧、沙暴以及雪等五種天氣現象之天氣符號。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-1.3",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "符號",
+    "question": "高層雲及卷積雲之代表符號為何？基本組成為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-3",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "符號",
+    "question": "比較霧、霜、淞特性。其代表符號為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-93-4",
+    "year": 93,
+    "exam_type": "普考",
+    "category": "符號",
+    "question": "中央氣象局所屬平地測站之 FM-12-VII SYNOP 電碼編報實務作業中，必須編報哪些節次？指示碼為何？主要有哪些氣象要素？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-1.2",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "符號",
+    "question": "試描述以下天氣觀測記錄：（10分）0935․—|․1 11—․0 14—1645",
+    "points": 10,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-3.3",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "符號",
+    "question": "積雨雲及雨層雲代表符號為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-5",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "符號",
+    "question": "試說明在從事天氣現象觀測時如何區別霧（Fog）、霾（Haze）及靄（Mist），並註明其天氣符號。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-90-2",
+    "year": 90,
+    "exam_type": "薦任",
+    "category": "符號",
+    "question": "請描繪以下天氣現象之代表符號：（每小題3分，共15分）(一) 陣雨 (二) 霧 (三) 沙塵暴 (四) 雷暴或雷雨 (五) 霾",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "j-107-5",
+    "year": 107,
+    "exam_type": "普考",
+    "category": "探空",
+    "question": "說明氣象用測風氣球與探空氣球的特色，以及它們的保存和使用方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-107-5",
+    "year": 107,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "說明無線電探空儀全系統的組成要件，以及探空儀量測的各種參數不確定性來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-104-5",
+    "year": 104,
+    "exam_type": "普考",
+    "category": "探空",
+    "question": "說明無線電探空儀的觀測所提供的原始參數與劃製斜溫圖所需氣象參數間的關聯性，及探空儀量測誤差來源。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-103-4",
+    "year": 103,
+    "exam_type": "普考",
+    "category": "探空",
+    "question": "說明如何利用探空斜溫圖求得位溫、濕球溫度與相當溫度之值。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-97-1",
+    "year": 97,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "已知探空氣球的淨重 Mb，各種酬載（探空儀和綁繩等）淨重 Mp，灌入氣球的氦氣密度ρb，充灌後的氣球直徑 A，以及大氣的黏滯係數 Cd，請用以上參數描述氣球探空的垂直速度。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-96-3",
+    "year": 96,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "台灣近幾年來開始以機載拋投式探空儀進行追風計畫，說明拋投式探空觀測（dropsonde）的觀測項目、觀測特性、追風原理以及觀測資料之可能應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-12",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "無線電探空儀在對流層內的濕度量測精確度是多少？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-13",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "探空氣球的特性，以下敘述何者正確？(A)氣球升速和充氣後氣球直徑成正比 (B)天然乳膠材質比合成乳膠材質更不受臭氧和紫外輻射線的影響 (C)常態性探空作業通常設定氣球上升速度約150公尺／分鐘 (D)降水通常會抑制氣球的升力",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-21",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "以下那些敘述是無線電探空儀採用水活性（water activated）化學電池的理由？可以利用電池產生的熱能來穩定探空儀內部溫度、比乾電池便宜、重量比乾電池輕、存放時間比乾電池久",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-93-4",
+    "year": 93,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "使用衛星資料反演大氣垂直剖線之結果一般都以氣球探空資料作為比較的標準，試問這兩種資料在本質上有何不同？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-92-2",
+    "year": 92,
+    "exam_type": "高考",
+    "category": "探空",
+    "question": "說明 OMEGA、LORAN-C、GPS 等這些無線電導航理念，如何運用在高空風場觀測探空。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "d-98-5",
+    "year": 98,
+    "exam_type": "身心障礙",
+    "category": "探空",
+    "question": "高空氣球無線電探空剖面資料，除了「標準層」之外，還有所謂的「特性層」。這一「特性層」是由哪些溫度、濕度和風場特殊變化而被界定？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-100-5",
+    "year": 100,
+    "exam_type": "薦任",
+    "category": "探空",
+    "question": "大氣穩定度是判斷大氣環境特性的重要參數，說明如何利用探空資料決定當時的大氣穩定度以及雲底的可能高度。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-1",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "探空",
+    "question": "說明雲高及雲冪高之意義，以及如何利用探空資料（斜溫圖）來估計雲高？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-102-3",
+    "year": 102,
+    "exam_type": "薦任",
+    "category": "探空",
+    "question": "高空之氣象觀測，主要是以施放探空氣球攜帶無線電探空儀來進行，又稱為探空觀測。說明探空觀測可以觀測之項目，以及觀測這些項目所使用之儀器和方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-106-2",
+    "year": 106,
+    "exam_type": "薦任",
+    "category": "探空",
+    "question": "投落送（dropsonde）和無線電探空儀（radiosonde）有何異同之處？投落送又如何被使用在颱風路徑預報？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-106-4",
+    "year": 106,
+    "exam_type": "薦任",
+    "category": "探空",
+    "question": "無線電探空儀（radiosonde）探空觀測中，有哪些參數是被直接量測？又其中哪一參數的不確定性最高？這對全球氣候變遷的推估應用可能有何種程度的影響？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-113-4",
+    "year": 113,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "要獲取實際降水系統內部空氣垂直速度的準確資訊是相當困難與挑戰的，試說明現階段有哪些量測方式或反演方法可以獲得這些資訊？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-111-3",
+    "year": 111,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "大氣觀測中，真實的高度與重力位高度有別。（每小題10分，共20分）(1) 說明為何要使用重力位高度？(2) 說明如何利用氣壓、溫度及相對溼度計算重力位高度？",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-110-1",
+    "year": 110,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "何謂集合標準？在國際標準追溯上，哪一個觀測項目採追溯到集合標準？在進行集合標準時，哪些名詞可被用於討論集合標準的量測準確度？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-106-5",
+    "year": 106,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "試回答下列有關蒸發量的問題：(1) 何謂蒸發量？（5分）(2) 蒸發量的多寡受哪些因素影響？（5分）(3) A型蒸發器和20cm蒸發器在相同條件下的測量結果會有差異，請以蒸發量儀器設計觀點分析兩種觀測儀器何者的觀測結果較接近實際蒸發面的蒸發量？",
+    "points": 15,
+    "sub_questions": []
+  },
+  {
+    "id": "s-106-1",
+    "year": 106,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "在天氣觀測中，無論使用的儀器如何精密，測量方式如何完善，觀測員如何細心，其測量結果皆會存在一定的偏差（Deviation）或誤差，試說明造成觀測誤差發生的原因有哪些？又該如何修正？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-105-1",
+    "year": 105,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "世界氣象組織（WMO）所評估的地面降水觀測誤差來源有哪些？各種誤差來源的權重又各是多少？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-105-3",
+    "year": 105,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "何謂氣象量測上的「原級標準」、「次級標準」、「參考標準」、「工作標準」、「遊校標準」？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-104-3",
+    "year": 104,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "說明「天氣現象」觀測內容？為何我們需要做天氣現象的觀測？而天氣現象的觀測與一般儀器的觀測方法有何差異？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-103-1",
+    "year": 103,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "蒸發量是水循環重要之基本要素，而 A 型蒸發皿是測量蒸發量的常用儀器，說明 A 型蒸發皿之構造特徵，觀測時要做什麼訂正？有哪些因素會影響 A 型蒸發皿之觀測誤差？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-103-4",
+    "year": 103,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "氣象作業人員常利用所謂的 K 指數來判斷會不會有雷雨天氣的發生，說明 K 指數之定義，並討論 K 指數之大小為何和雷雨發生之天氣條件有關。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-102-1",
+    "year": 102,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "請解釋以下有關氣象量測準確度相關名詞：重現性（reproducibility）、解析度（resolution）、系統性誤差（systematic error）、反應時間（response time）、遲滯誤差（lag error）",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-102-2",
+    "year": 102,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "截至2013年6月，全球海洋已超過3300套 Argo float 運作。請說明 Argo float 特徵、運作原理和量測的變數。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-101-5",
+    "year": 101,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "說明地面臭氧量、臭氧全量與臭氧垂直分布的意義，以及一般測量這些物理量的方法。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-97-4",
+    "year": 97,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "說明現今氣象站對於二氧化碳（CO2）量測的主要設備和校正流程。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-97-4",
+    "year": 97,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "（1）何謂氣象光學視程（Meteorological Optical Range, MOR）？（10分） （2）能見度儀器的基準線距離（baseline distance, χ）和所測量的透射率 τ，與 MOR 的函數關係為何？（10分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-97-5",
+    "year": 97,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "詳細說明全球定位系統（Global Positioning System, GPS）在氣象觀測上的三種應用。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-94-3",
+    "year": 94,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "試比較霾、靄、煙之物理與化學特性。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-94-5",
+    "year": 94,
+    "exam_type": "高考",
+    "category": "其他",
+    "question": "氣象光學視程（Meteorological Optical Range, MOR）的觀測標的與環境背景的對比臨界值（contrast threshold, ε），世界氣象組織的建議值是多少？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-93-2",
+    "year": 93,
+    "exam_type": "普考",
+    "category": "其他",
+    "question": "追蹤氣球（Pibal balloon）之顏色選取要領為何？常用灌充氣體有哪些？其優缺點為何？若配合單經緯儀使用時，其功能為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-4",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "其他",
+    "question": "試論述目前氣象局有哪些觀測系統，其功能為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-6",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "其他",
+    "question": "試說明目前氣象局建立之地面氣象自動測報系統包含哪些氣象觀測要素？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "c-94-5",
+    "year": 94,
+    "exam_type": "簡任",
+    "category": "其他",
+    "question": "試扼要評估目前氣象局現有觀測系統的優勢（Strength）、劣勢（Weakness）、機會（Opportunity）及威脅（Threat）進行分析（即 SWOT 分析）（20分），並建議未來發展方向。",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-100-6",
+    "year": 100,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "已知雨量計之承雨器半徑為 10cm，量杯口的半徑為 2cm，當量杯的積水高度為 20cm 時，則現在的降水量是多少 mm？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-102-5",
+    "year": 102,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "解釋降雨率（rainfall rate）公式之含義，以及在氣象雷達回波之應用議題。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-102-4",
+    "year": 102,
+    "exam_type": "高考",
+    "category": "計算與名詞解釋",
+    "question": "已知探空氣球淨舉升力 FL = π/6 × D³ × (ρ - ρB) × g − (mB + mP) × g 和黏滯力 FD = 1/2 × CD × ρ × A × w²，請解釋以上各符號意義並代入合理數據推算出氣球上升速度 w（單位：m/s）。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-111-2",
+    "year": 111,
+    "exam_type": "高考",
+    "category": "計算與名詞解釋",
+    "question": "探空觀測最常使用探空氣球將探空儀帶上天，回答以下問題：（每小題10分，共30分）(1) 一般作業單位施放探空氣球時，其上升速度約為多少 m/s？(2) 若氣球以此速度等速上升，地面風為東北風 10 m/s，高空風為西南風 60 m/s，高度達 16 公里，請問耗時多久？水平位移多遠？(3) 根據上述結果，探空資料應如何謹慎應用？",
+    "points": 30,
+    "sub_questions": []
+  },
+  {
+    "id": "s-98-3",
+    "year": 98,
+    "exam_type": "高考",
+    "category": "計算與名詞解釋",
+    "question": "解釋下列大氣測計名詞：（每小題5分，共20分）(1) 精密度（precision）(2) 準確度（accuracy）(3) 解析度（resolution）(4) 反應時間（response time）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-95-2",
+    "year": 95,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "水氣混合比（r）及比濕（q）之定義為何？其關係式為何？即 q = f(r) 之函數關係。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-95-3",
+    "year": 95,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "簡述以下名詞定義。（20分）(1) 天文日照時數 (2) 陣風 (3) 露點 (4) 太陽常數",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-95-5",
+    "year": 95,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "某 C-band 5.0 cm 波長都卜勒雷達，PRT 為 0.001 秒。(1) 求 maximum unambiguous velocity 與 range（10分）(2) 真實風速為 20 m/s 朝向雷達，未修正情況下雷達測得風向風速為何？（5分）(3) 降水距離 250 km，雷達未修正時測得距離為何？（5分）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "s-95-1.1",
+    "year": 95,
+    "exam_type": "高考",
+    "category": "計算與名詞解釋",
+    "question": "蒲福風級（B）與風速（V）關係為 V = K × Bⁿ，其中 K 為常數 0.836，請問 n 為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "s-92-4",
+    "year": 92,
+    "exam_type": "高考",
+    "category": "計算與名詞解釋",
+    "question": "將雷達方程式簡寫成 P = C × (radar term) × (target term)，請說明等號右側各項之內容。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-90-5",
+    "year": 90,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "解釋名詞：（每小題5分，共20分）(1) 太陽常數 (2) 全天太陽輻射 (3) 直達太陽輻射 (4) 天文日照時數",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "j-89-3",
+    "year": 89,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "試說明霧（fog）、靄（mist）和霾（haze）之異同。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-84-5",
+    "year": 84,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "試說明塵霾（dust haze）與煙（smoke）之區別。",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "j-82-3",
+    "year": 82,
+    "exam_type": "普考",
+    "category": "計算與名詞解釋",
+    "question": "解釋下列名詞：（20分）(1) 精確度（Precision）(2) 準確度（Accuracy）(3) 穩定度（Stability）(4) 靈敏度（Sensitivity）",
+    "points": 20,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-1.1",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "計算與名詞解釋",
+    "question": "高度（h）、海拔（z）及標高（H）三者所代表意義為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-92-3.2",
+    "year": 92,
+    "exam_type": "薦任",
+    "category": "計算與名詞解釋",
+    "question": "今以一直徑25 cm承雨器收集到15 mm降水量，則改以直徑12.5 cm同型承雨器時，所獲得降水量應為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-94-7",
+    "year": 94,
+    "exam_type": "薦任",
+    "category": "計算與名詞解釋",
+    "question": "若已知雨量計之承雨器半徑為10公分，今欲使降雨為1mm時，量杯的積水高度為2.5cm，則量杯口的半徑應為何？",
+    "points": null,
+    "sub_questions": []
+  },
+  {
+    "id": "a-82-1",
+    "year": 82,
+    "exam_type": "薦任",
+    "category": "計算與名詞解釋",
+    "question": "解釋名詞：(1) 遲滯現象（Hysteresis）(2) 溫度係數（Temperature coefficient）(3) 日時間常數（Time lag）(4) 隨機誤差（Random error）",
+    "points": null,
+    "sub_questions": []
+  }]
