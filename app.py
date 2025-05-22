@@ -25,7 +25,11 @@ def question():
     if year:
         results = [q for q in results if q["year"] == year]
 
-    return jsonify(random.choice(results) if results else {"error": "找不到題目"})
+    if not results:
+        return jsonify({"error": "找不到符合條件的題目"}), 404
+
+    selected = random.choice(results)
+    return jsonify(selected)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000)
