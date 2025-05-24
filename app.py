@@ -13,11 +13,14 @@ def home():
 @app.route("/question/getquestion", methods=["POST"])
 def question():
     payload = request.get_json()
+    id = payload.get("id")
     cat = payload.get("category")
     exam = payload.get("exam_type")
     year = payload.get("year")
 
     results = data
+    if id:
+        results = [q for q in results if q["id"] == id]
     if cat:
         results = [q for q in results if q["category"] == cat]
     if exam:
